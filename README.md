@@ -1,13 +1,13 @@
 # Project archived. See ``main`` branch of [this repository](https://github.com/Jacekun/cs3xxx-repo).
-# CloudStream-3XXX
+# CloudStreamNew
 <p align="center">
-  <img src="doc/ic_launcher.png" width="128" height="128" />
+  <img src="doc/ic_launcher_round.png" width="128" height="128" />
 </p> <br>
 
-A fork of CloudStream 3, with additional features and changes. Notably, NSFW sites <br>
+A fork of CloudStreamNew, with additional features and changes. Notably, NSFW sites <br>
 
-![Latest Release](https://img.shields.io/github/release/Jacekun/CloudStream-3XXX?style=for-the-badge)
-![Download Count](https://img.shields.io/github/downloads/Jacekun/CloudStream-3XXX/total?style=for-the-badge) <br>
+![Latest Release](https://img.shields.io/github/release/Jacekun/CloudStreamNew?style=for-the-badge)
+![Download Count](https://img.shields.io/github/downloads/Jacekun/CloudStreamNew/total?style=for-the-badge) <br>
 
 [**Click here to Download latest release**](https://github.com/Jacekun/CloudStream-3XXX/releases/latest) <br>
 
@@ -52,11 +52,7 @@ A fork of CloudStream 3, with additional features and changes. Notably, NSFW sit
 |[Avgle](https://avgle.com)|:x:|:x:|JAV|-|:x:|
 |[JAV Junkies](http://www.javjunkies.com)|:x:|:x:|JAV|-|:x:|
 
-***Screenshots:***
-(All the images are blurred because of DMCA reasons, but are actually not blurred in the app)
 
-<img src="./.github/home.jpg" height="400"/><img src="./.github/search.jpg" height="400"/><img src="./.github/downloads.jpg" height="400"/><img src="./.github/results.jpg" height="400"/>
-<img src="./.github/player.jpg" height="200"/>
 
 ***The list of supported languages:***
 * 🇱🇧 Arabic
